@@ -1,0 +1,3 @@
+[workspace]
+members = ["contracts/poc"]
+resolver = "2"
